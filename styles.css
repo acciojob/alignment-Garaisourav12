@@ -2,9 +2,10 @@
 .middle{
             margin: auto;
             margin-bottom: 20px;
-            border: 1px solid black;
+/*             border: 1px solid black; */
         }
-        .middle, .middle tr> td{
+        .middle, .middle tr> *{
+			border: 1px solid black;
             padding: 1px;
         }
 
